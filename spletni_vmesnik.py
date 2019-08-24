@@ -18,24 +18,25 @@ def naslednja_stran():
 @bottle.get('/pregled')
 def pregled():
     tabela_zivil12 = objekti()
-    kategorija = "zelenjava"
+    kategorija = "vse"
     return bottle.template('test_pregled', tabela_zivil_objektov=tabela_zivil12, kategorija = kategorija)
 
 @bottle.get('/dodajanje')
 def dodajanje():
     return bottle.template('dodajanje')
 
+
 @bottle.get('/dodano')
 def dodajanje():
-    tabela_novega = [
-        bottle.request.query['ime'],
-        bottle.request.query['kategorija'],
-        bottle.request.query['mascobe'],
-        bottle.request.query['nasiceneMascobe'],
-        bottle.request.query['sladkorji'],
-        bottle.request.query['sol'],
-        bottle.request.query['url']
-    ]
+    slovar_novega = {
+        "ime": bottle.request.query['ime'],
+        "kategorija": bottle.request.query['kategorija'],
+        'mascobe': int(bottle.request.query['mascobe']),
+        'nasicene_mascobe': int(bottle.request.query['nasiceneMascobe']),
+        'sladkorji': int(bottle.request.query['sladkorji']),
+        'sol': int(bottle.request.query['sol']),
+        'url': bottle.request.query['url']
+    }
     
     dodaj_novo(tabela_novega)
     
