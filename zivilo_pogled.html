@@ -3,7 +3,7 @@
     <body>
             % for i in range (len(tabela_zivil_objektov)):
             %   objekt = tabela_zivil_objektov[i]
-            %   if (kategorija == objekt.kategorija):
+            %   if (kategorija == objekt.kategorija or kategorija == "vse"):
                     <header>Ime zivila: {{objekt.ime}}</header>
                     <p>
                     <a>

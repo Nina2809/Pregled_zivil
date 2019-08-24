@@ -1,38 +1,47 @@
 [
-    {
-      "ime": "Paradi\u017enik",
-      "kategorija": "zelenjava",
-      "mascobe": 10,
-      "nasicene_mascobe": 11,
-      "sladkorji": 12,
-      "sol": 13,
-      "url": "https://254066-790876-3-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2014/06/paradiznik.jpg"
-    },
-    {
-      "ime": "Coca-cola",
-      "kategorija": "gazirane pija\u010de",
-      "mascobe": 10,
-      "nasicene_mascobe": 11,
-      "sladkorji": 12,
-      "sol": 13,
-      "url": "https://www.cokesolutions.com/content/cokesolutions/site/us/en/products/brands/coca-cola/coca-cola.main-image.434-624.png"
-    },
-    {
-      "ime": "Korenje",
-      "kategorija": "zelenjava",
-      "mascobe": 10,
-      "nasicene_mascobe": 12,
-      "sladkorji": 12,
-      "sol": 12,
-      "url": "https://mojpogled.com/wp-content/uploads/2015/10/korenje-zdravilna-zelenjava.jpg"
-    },
-    {
-      "ime": "Zelje",
-      "kategorija": "zelenjava",
-      "mascobe": 1,
-      "nasicene_mascobe": 2,
-      "sladkorji": 3,
-      "sol": 4,
-      "url": "https://ekobioorganic.si/wp-content/uploads/2018/08/bio_zelje.png"
-    }
-  ]
+  {
+    "ime": "Paradi\u017enik",
+    "kategorija": "",
+    "mascobe": 10,
+    "nasicene_mascobe": 11,
+    "sladkorji": 12,
+    "sol": 13,
+    "url": "https://254066-790876-3-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2014/06/paradiznik.jpg"
+  },
+  {
+    "ime": "Coca-cola",
+    "kategorija": "gazirane pija\u010de",
+    "mascobe": 10,
+    "nasicene_mascobe": 11,
+    "sladkorji": 12,
+    "sol": 13,
+    "url": "https://www.cokesolutions.com/content/cokesolutions/site/us/en/products/brands/coca-cola/coca-cola.main-image.434-624.png"
+  },
+  {
+    "ime": "Korenje",
+    "kategorija": "zelenjava",
+    "mascobe": 10,
+    "nasicene_mascobe": 12,
+    "sladkorji": 12,
+    "sol": 12,
+    "url": "https://mojpogled.com/wp-content/uploads/2015/10/korenje-zdravilna-zelenjava.jpg"
+  },
+  {
+    "ime": "Zelje",
+    "kategorija": "zelenjava",
+    "mascobe": 1,
+    "nasicene_mascobe": 2,
+    "sladkorji": 3,
+    "sol": 4,
+    "url": "https://ekobioorganic.si/wp-content/uploads/2018/08/bio_zelje.png"
+  },
+  {
+    "ime": "Pepsi",
+    "kategorija": "gazirane pija\u00c4\u008de",
+    "mascobe": 0.0,
+    "nasicene_mascobe": 0.0,
+    "sladkorji": 10.6,
+    "sol": 0.01,
+    "url": "./slike/pepsi.jpg"
+  }
+]
