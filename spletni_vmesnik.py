@@ -17,9 +17,9 @@ def naslednja_stran():
 
 @bottle.get('/pregled')
 def pregled():
-    tabela_zivil12 = objekti()
+    tabela_zivil = objekti()
     kategorija = "vse"
-    return bottle.template('test_pregled', tabela_zivil_objektov=tabela_zivil12, kategorija = kategorija)
+    return bottle.template('zivilo_pregled', tabela_zivil_objektov=tabela_zivil, kategorija = kategorija)
 
 @bottle.get('/dodajanje')
 def dodajanje():
