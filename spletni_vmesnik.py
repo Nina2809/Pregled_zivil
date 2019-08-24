@@ -38,7 +38,7 @@ def dodajanje():
         'url': bottle.request.query['url']
     }
     
-    dodaj_novo(tabela_novega)
+    dodaj_novo(slovar_novega)
     
     return "Dodajanje uspesno!"
 
