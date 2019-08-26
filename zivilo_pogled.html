@@ -1,24 +1,26 @@
-<!DOCTYPE html>
-<html>
-    <body>
+%rebase('bootstrap.html')
+
             % for i in range (len(tabela_zivil_objektov)):
             %   objekt = tabela_zivil_objektov[i]
             %   if (kategorija == objekt.kategorija or kategorija == "vse"):
-                    <header>Ime zivila: {{objekt.ime}}</header>
-                    <p>
-                    <a>
-                    <img border="0" src={{objekt.url}} width="100" height="100">
-                    </a>
-                    </p>
-                    <ul>
-                        <li>Kategorija: {{objekt.kategorija}}</li>
-                        <li>Mascobe: {{objekt.mascobe}}</li>
-                        <li>nasicene mascobe: {{objekt.nasicene_mascobe}}</li>
-                        <li>sladkorji: {{objekt.sladkorji}}</li>
-                        <li>sol: {{objekt.sol}}</li>
-                    </ul> 
 
-
-    </body>
-
-</html>
+            <div class="card" style="width: 18rem;">
+                    <div class="card-header">
+                            <h4>{{objekt.ime}}</h4>
+                          </div>
+                    <img src="{{objekt.url}} " class="card-img-top">
+                        <div class="card-body">
+                            <p class="card-text">
+                                <ul class="list-group">
+                                    <li class="list-group-item"><b>Kategorija: </b>{{objekt.kategorija}}</li>
+                                    <li class="list-group-item"><tt>Mascobe:</tt> {{objekt.mascobe}}g</li>
+                                    <li class="list-group-item"><tt>Nasicene mascobe:</tt> {{objekt.nasicene_mascobe}}g</li>
+                                    <li class="list-group-item"><tt>Sladkorji:</tt> {{objekt.sladkorji}}g</li>
+                                    <li class="list-group-item"><tt>Sol:</tt> {{objekt.sol}}g</li>
+                                </ul> 
+                            </p>
+                        </div>
+            </div>
+            
+       
+                    

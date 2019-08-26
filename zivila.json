@@ -1,29 +1,120 @@
 [
   {
-    "ime": "Paradi\u017enik",
+    "ime": "Philadelphia original, sirni namaz",
     "kategorija": "",
-    "mascobe": 10,
-    "nasicene_mascobe": 11,
-    "sladkorji": 12,
-    "sol": 13,
+    "mascobe": 21,
+    "nasicene_mascobe": 14,
+    "sladkorji": 4.3,
+    "sol": 0.75,
     "url": "https://254066-790876-3-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2014/06/paradiznik.jpg"
   },
   {
-    "ime": "Coca-cola",
-    "kategorija": "gazirane pija\u010de",
-    "mascobe": 10,
-    "nasicene_mascobe": 11,
-    "sladkorji": 12,
-    "sol": 13,
+    "ime": "Mercator, Sirni namaz s smetano",
+    "kategorija": "",
+    "mascobe": 25,
+    "nasicene_mascobe": 15.9,
+    "sladkorji": 3.2,
+    "sol": 0.9,
+    "url": "https://254066-790876-3-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2014/06/paradiznik.jpg"
+  },
+  {
+    "ime": "Carloni, Mozzarella",
+    "kategorija": "",
+    "mascobe": 20,
+    "nasicene_mascobe": 13,
+    "sladkorji": 0.8,
+    "sol": 0.4,
+    "url": "https://254066-790876-3-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2014/06/paradiznik.jpg"
+  },
+  {
+    "ime": "ABC Classic, Sveži kremni sir",
+    "kategorija": "",
+    "mascobe": 22,
+    "nasicene_mascobe": 15.8,
+    "sladkorji": 2.5,
+    "sol": 1.1,
+    "url": "https://254066-790876-3-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2014/06/paradiznik.jpg"
+  },
+  {
+    "ime": "Zelene doline, Mladi kajmak",
+    "kategorija": "",
+    "mascobe": 45,
+    "nasicene_mascobe": 29,
+    "sladkorji": 2.4,
+    "sol": 0.9,
+    "url": "https://254066-790876-3-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2014/06/paradiznik.jpg"
+  },
+  {
+    "ime": "Kekec, Tunina pašteta",
+    "kategorija": "mesni in ribji izdelki",
+    "mascobe": 21.5,
+    "nasicene_mascobe": 2.7,
+    "sladkorji": 0.8,
+    "sol": 1.6,
+    "url": "https://www.cokesolutions.com/content/cokesolutions/site/us/en/products/brands/coca-cola/coca-cola.main-image.434-624.png"
+  },
+
+  {
+    "ime": "AVE, Toast šunka narezek",
+    "kategorija": "mesni in ribji izdelki",
+    "mascobe": 4.5,
+    "nasicene_mascobe": 0.5,
+    "sladkorji": 0.5,
+    "sol": 2,
     "url": "https://www.cokesolutions.com/content/cokesolutions/site/us/en/products/brands/coca-cola/coca-cola.main-image.434-624.png"
   },
   {
-    "ime": "Korenje",
-    "kategorija": "zelenjava",
-    "mascobe": 10,
-    "nasicene_mascobe": 12,
-    "sladkorji": 12,
-    "sol": 12,
+    "ime": "S Budget ribje palcke",
+    "kategorija": "mesni in ribji izdelki",
+    "mascobe": 9,
+    "nasicene_mascobe": 1.1,
+    "sladkorji": 0.9,
+    "sol": 1,
+    "url": "https://www.cokesolutions.com/content/cokesolutions/site/us/en/products/brands/coca-cola/coca-cola.main-image.434-624.png"
+  },
+  {
+    "ime": "Rio mare, Tuna v oljcnem olju",
+    "kategorija": "mesni in ribji izdelki",
+    "mascobe": 37,
+    "nasicene_mascobe": 6,
+    "sladkorji": 0,
+    "sol": 1.1,
+    "url": "https://www.cokesolutions.com/content/cokesolutions/site/us/en/products/brands/coca-cola/coca-cola.main-image.434-624.png"
+  },
+  {
+    "ime": "Okus podeželja; Pišcancji zrezki iz stegna",
+    "kategorija": "mesni in ribji izdelki",
+    "mascobe": 7.6,
+    "nasicene_mascobe": 2.2,
+    "sladkorji": 0.5,
+    "sol": 0.2,
+    "url": "https://www.cokesolutions.com/content/cokesolutions/site/us/en/products/brands/coca-cola/coca-cola.main-image.434-624.png"
+  },
+  {
+    "ime": "Ljubljanske mlekarne, Planica",
+    "kategorija": "zmrznjena živila",
+    "mascobe": 21.4,
+    "nasicene_mascobe": 10,
+    "sladkorji": 26.8,
+    "sol": 0.11,
+    "url": "https://mojpogled.com/wp-content/uploads/2015/10/korenje-zdravilna-zelenjava.jpg"
+  },
+  {
+    "ime": "Ljubljanske mlekarne, Lucka",
+    "kategorija": "zmrznjena živila",
+    "mascobe": 17.1,
+    "nasicene_mascobe": 12.7,
+    "sladkorji": 21.5,
+    "sol": 0.15,
+    "url": "https://mojpogled.com/wp-content/uploads/2015/10/korenje-zdravilna-zelenjava.jpg"
+  },
+  {
+    "ime": "Grandessa, Sladoled limona",
+    "kategorija": "zmrznjena živila",
+    "mascobe": 8,
+    "nasicene_mascobe": 6.7,
+    "sladkorji": 25,
+    "sol": 0.05,
     "url": "https://mojpogled.com/wp-content/uploads/2015/10/korenje-zdravilna-zelenjava.jpg"
   },
   {

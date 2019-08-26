@@ -34,7 +34,7 @@ def dodajanje():
 @bottle.get('/dodano')
 def dodajanje():
     slovar_novega = {
-        "ime": bottle.request.query['ime'],
+        "ime": bottle.request.query.getunicode('ime'),
         "kategorija": bottle.request.query['kategorija'],
         'mascobe': float(bottle.request.query['mascobe']),
         'nasicene_mascobe': float(bottle.request.query['nasiceneMascobe']),
