@@ -14,6 +14,12 @@ def osnovna_stran():
 def naslednja_stran():
     return bottle.template('baza_zivil')
 
+
+@bottle.get('/zivilo_pogled')
+def pregled_zivil():
+    return bottle.template('zivilo_pogled')
+
+
 @bottle.get('/pregled')
 def pregled():
     tabela_zivil = objekti()
