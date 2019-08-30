@@ -2,22 +2,69 @@
 
 
 <div class="card text-center">
-        <div class="card-header">
-          DODAJ SVOJE ŽIVILO
-        </div>
-        <div class="card-body">
+  <div class="card-header">
+      DODAJ SVOJE ŽIVILO
+  </div>
+      <div class="card-body">
           <h5 class="card-title">navodila kako dodas zivilo</h5>
           <p class="card-text"></p>
           <form action="/dodano">
+            <div class="input-group mb-3">
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="inputGroup-sizing-default" >Ime</span>
+              </div>
+              <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" name="ime">
+            </div>
+            <div class="input-group mb-3">
+              <div class="input-group-prepend">
+                <label class="input-group-text" for="inputGroupSelect01" name="kategorija">Kategorija</label>
+              </div>
+              <select class="custom-select" id="inputGroupSelect01">
+                <option selected>izberi v katero kategorijo spada tvoj izdelek...</option>
+                <option value="1" name="kategorija">Mlečni izdeleki</option>
+                <option value="2" name="kategorija">Mesni in ribji izdelki</option>
+                <option value="3"> Sladoledi</option>
+                <option value="3">Pripravljene jedi</option>
+                <option value="3">Zelenjavni izdelki</option>
+                <option value="3">Sadni izdelki</option>
+                <option value="3">Sladkarije in slani prigrizki</option>
+                <option value="3">Žitarice, riž in mlevski izdelki</option>
+                <option value="3">Sadni sokovi in gazirane pijače</option>
+              </select>
+            </div>
+            <div class="input-group mb-3">
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="inputGroup-sizing-default">Mascobe</span>
+              </div>
+              <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default"  name="mascobe">
+            </div>
+            <div class="input-group mb-3">
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="inputGroup-sizing-default">Nasičene maščobe</span>
+              </div>
+              <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" name="nasiceneMascobe" >
+            </div>
+            <div class="input-group mb-3">
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="inputGroup-sizing-default">Sladkorji</span>
+              </div>
+              <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" name="sladkorji" >
+            </div>
+            <div class="input-group mb-3">
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="inputGroup-sizing-default">Sol</span>
+              </div>
+              <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" name="sol" >
+            </div>
+            <div class="input-group mb-3">
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="inputGroup-sizing-default">url</span>
+              </div>
+              <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" name="url" >
+            </div>
+
             <ul>
-    <li>        ime: <input type="text" name="ime"> 
-    <li>        kategorija: <input type="text" name="kategorija"> 
-    <li>        mascobe: <input type="text" name="mascobe"> 
-    <li>        nasiceneMascobe: <input type="text" name="nasiceneMascobe"> 
-    <li>        sladkorji: <input type="text" name="sladkorji"> 
-    <li>        sol: <input type="text" name="sol"> 
-    <li>        url: <input type="text" name="url"> 
-                
+    <li>        kategorija: <input type="text" name="kategorija">        
         </ul>
         <input type="submit" value ="dodaj">
             </form>

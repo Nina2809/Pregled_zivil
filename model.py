@@ -41,5 +41,5 @@ def dodaj_novo(slovar):
         temp = json.load(datoteka)
 
     temp.append(slovar)
-    with open("zivila.json", mode='w') as f:
+    with open("zivila.json", mode='w', encoding='utf-8') as f:
         f.write(json.dumps(temp, indent=2))

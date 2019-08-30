@@ -46,6 +46,9 @@ def dodajanje():
     
     return "Dodajanje uspesno!"
 
+@bottle.get('/slike/<ime>')
+def slike(ime):
+    return bottle.static_file(ime, root = 'slike')
 
 
 
