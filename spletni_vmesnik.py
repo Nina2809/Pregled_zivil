@@ -8,17 +8,17 @@ tabela_zivil = []
 def pregled_metoda(kategorija_insert):
     tabela_zivil = objekti()
     kategorija = kategorija_insert
-    return bottle.template('zivilo_pogled', tabela_zivil_objektov=tabela_zivil, kategorija = kategorija)
+    return bottle.template('views/zivilo_pogled', tabela_zivil_objektov=tabela_zivil, kategorija = kategorija)
 
 
 @bottle.get('/')
 
 def osnovna_stran():
-    return bottle.template('opis_strani')
+    return bottle.template('views/opis_strani')
 
 @bottle.get('/baza_zivil')
 def naslednja_stran():
-    return bottle.template('baza_zivil')
+    return bottle.template('views/baza_zivil')
 
 # POGLED GLEDE NA KATEGORIJO :
 @bottle.get('/pregled_vse')
@@ -68,7 +68,7 @@ def pregled():
 
 @bottle.get('/dodajanje')
 def dodajanje():
-    return bottle.template('dodajanje')
+    return bottle.template('views/dodajanje')
 
 
 @bottle.get('/dodano')
@@ -90,9 +90,13 @@ def dodajanje():
 def slike(ime):
     return bottle.static_file(ime, root = 'slike')
 
+@bottle.get('/views/<ime>')
+def templates(ime):
+    return bottle.static_file(ime, root = 'views')
+
 @bottle.get('/preveri_prehranski_profil')
 def preveri():
-    return bottle.template('preveri_prehranski_profil')
+    return bottle.template('views/preveri_prehranski_profil')
 
 
 
