@@ -1,7 +1,7 @@
 [
   {
     "ime": "Philadelphia original, sirni namaz",
-    "kategorija": "",
+    "kategorija": "mlecni izdelki",
     "mascobe": 21,
     "nasicene_mascobe": 14,
     "sladkorji": 4.3,
@@ -115,5 +115,14 @@
     "sladkorji": 25,
     "sol": 0.05,
     "url": "slike/gradessa_s.jpg"
+  },
+  {
+    "ime": "hh",
+    "kategorija": "zelenjavni izdelki",
+    "mascobe": 4.0,
+    "nasicene_mascobe": 4.0,
+    "sladkorji": 4.0,
+    "sol": 4.0,
+    "url": ""
   }
 ]

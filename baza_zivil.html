@@ -6,8 +6,10 @@
           IZBERI ŽELJENO KATEGORIJO
         </div>
         <div class="card-body">
-          <p class="card-text">S klikom na gumbek z napisom željene kategorije preveri ali je tvoje živilo že v bazi</p>
-       
+          <p class="card-text">Baza živil in pijač je za lažji pregled urejena po kategorijah, s klikom na željeno kategorijo se bojo prikazala zgolj živila, ki spadajo v to kategorijo. V kolikor te zanimajo vsa živila v bazi pritisni na sledeči gumb.</p>
+          <form action="/pregled_vse">
+            <button type="submit" class="btn btn-light">VSA ŽIVILA</button> 
+          </form>
         </div>
 </div>
 
@@ -16,9 +18,9 @@
         <div class="card" style="width: 18rem;">
         <img src="slike/mlecni_izdelki.jpg" class="card-img-top" alt="mlečni izdelki">
             <div class="card-body">
-                <p class="card-text">tukaj bom napisala kaj vse sodi v mlečne izdelke</p>
-                    <form action="/zivilo_pogled">
-                        <button type="submit">MLEČNI IZDELKI</button> 
+                <p class="card-text">V to skupino spadajo vsi izdelki, ki se pridobivajo izključno iz mleka, pri čemer se lahko dodajo snovi, potrebne za njihovo proizvodnjo. Lahko so tudi sestavljeni izdelki, katerih bistveni del je mleko ali mlečni izdelek. </p>
+                    <form action="/pregled_mlecni_izdelki">
+                        <button class="btn btn-light" type="submit">MLEČNI IZDELKI</button> 
                     </form>
             </div>
                         
@@ -29,9 +31,9 @@
         <div class="card" style="width: 18rem;">
         <img src="slike/mesni_in_ribji_izdelki.jpg" class="card-img-top" alt="mesni_in_ribji_izdelki">
             <div class="card-body">
-                <p class="card-text">tukaj bom napisala kaj vse sodi v mlečne izdelke</p>
-                    <form action="/zivilo_pogled">
-                        <button type="submit">MESNI IN RIBJI IZDELKI</button> 
+                <p class="card-text">V to kategorijo spadajo vsa živila, ki ...</p>
+                    <form action="/pregled_mesni_ribe">
+                        <button class="btn btn-light" type="submit">MESNI IN RIBJI IZDELKI</button> 
                     </form>              
             </div>
         </div>
@@ -39,11 +41,12 @@
 
     <div class="col-sm-4">
             <div class="card" style="width: 18rem;">
-            <img src="slike/sladoledi.jpg" class="card-img-top" alt="sladoledi">
+            <img src="slike/žitarice.jpg"class="card-img-top" alt="sladoledi">
                 <div class="card-body">
-                    <p class="card-text">tukaj bom napisala kaj vse sodi v mlečne izdelke</p>
-                        <form action="/zivilo_pogled">
-                            <button type="submit">SLADOLEDI</button> 
+                    <p class="card-text">Glede na sestavo in vrsto tehnološkega postopka v žitne izdelke uvrščamo predvsem: oluščeno žito, mlevske izdelke, pripravljene izdelke iz žit, mešanice za pekovske in druge izdelke, testenine ali
+                         testo in izdelke iz testa. </p>
+                        <form action="/pregled_riz_zito">
+                            <button class="btn btn-light" type="submit">RIŽ IN ŽITNI IZDELKI</button> 
                         </form>
                 </div>
                             
@@ -57,9 +60,9 @@
         <div class="card" style="width: 18rem;">
         <img src="slike/pripravljeni_obroki.jpg" class="card-img-top" alt="pripravljene_jedi">
             <div class="card-body">
-                <p class="card-text">tukaj bom napisala kaj vse sodi v mlečne izdelke</p>
-                    <form action="/zivilo_pogled">
-                        <button type="submit">PRIPRAVLJENE JEDI</button> 
+                <p class="card-text">V kategorijo pripravljene jedi so uvrščeni vs </p>
+                    <form action="/pregled_pripravljene">
+                        <button class="btn btn-light" type="submit">PRIPRAVLJENE JEDI</button> 
                     </form>
             </div>
                         
@@ -71,8 +74,8 @@
         <img src="slike/zelenjavni_izdelki.jpg" class="card-img-top" alt="zelenjavni_izdelki">
             <div class="card-body">
                 <p class="card-text">tukaj bom napisala kaj vse sodi v mlečne izdelke</p>
-                    <form action="/zivilo_pogled">
-                        <button type="submit">ZELENJAVNI IZDELKI</button> 
+                    <form action="/pregled_zelenjavni">
+                        <button class="btn btn-light" type="submit">ZELENJAVNI IZDELKI</button> 
                     </form>              
             </div>
         </div>
@@ -83,8 +86,8 @@
             <img src="slike/sadje.jpg" class="card-img-top" alt="sadni izdelki">
                 <div class="card-body">
                     <p class="card-text">tukaj bom napisala kaj vse sodi v mlečne izdelke</p>
-                        <form action="/zivilo_pogled">
-                            <button type="submit">SADNI IZDELKI</button> 
+                        <form action="/pregled_sadni">
+                            <button class="btn btn-light" type="submit">SADNI IZDELKI</button> 
                         </form>
                 </div>
                             
@@ -98,8 +101,8 @@
         <img src="slike/sladkarije.jpg" class="card-img-top" alt="sladkarije">
             <div class="card-body">
                 <p class="card-text">tukaj bom napisala kaj vse sodi v mlečne izdelke</p>
-                    <form action="/zivilo_pogled">
-                        <button type="submit">SLADKARIJE IN SLANI PRIGRIZKI</button> 
+                    <form action="/pregled_sladkarije_slani">
+                        <button class="btn btn-light" type="submit">SLADKARIJE IN SLANI PRIGRIZKI</button> 
                     </form>
             </div>
                         
@@ -108,11 +111,11 @@
 
     <div class="col-sm-4">
         <div class="card" style="width: 18rem;">
-        <img src="slike/žitarice.jpg" class="card-img-top" alt="žitarice">
+        <img src="slike/gazirane_pijace.jpg" class="card-img-top" alt="žitarice">
             <div class="card-body">
                 <p class="card-text">tukaj bom napisala kaj vse sodi v mlečne izdelke</p>
-                    <form action="/zivilo_pogled">
-                        <button type="submit">ŽITARICE, RIŽ IN MLEVSKI IZDELKI</button> 
+                    <form action="/pregled_gazirane">
+                        <button class="btn btn-light" type="submit">GAZIRANE PIJAČE</button> 
                     </form>              
             </div>
         </div>
@@ -123,8 +126,8 @@
             <img src="slike/sokovi.jpg" class="card-img-top" alt="mlečni izdelki">
                 <div class="card-body">
                     <p class="card-text">tukaj bom napisala kaj vse sodi v mlečne izdelke</p>
-                        <form action="/zivilo_pogled">
-                            <button type="submit">SADNI SOKOVI IN GAZIRANE PIJAČE</button> 
+                        <form action="/pregled_sadni_sokovi">
+                            <button class="btn btn-light" type="submit">SADNI SOKOVI</button> 
                         </form>
                 </div>
                             

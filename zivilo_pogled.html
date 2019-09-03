@@ -2,7 +2,7 @@
 
             % for i in range (len(tabela_zivil_objektov)):
             %   objekt = tabela_zivil_objektov[i]
-            %   if (kategorija == objekt.kategorija or kategorija == "vse"):
+            %   if (kategorija == "vse" or kategorija == objekt.kategorija):
 
             <div class="card" style="width: 18rem;">
                     <div class="card-header">
@@ -13,14 +13,16 @@
                             <p class="card-text">
                                 <ul class="list-group">
                                     <li class="list-group-item"><b>Kategorija: </b>{{objekt.kategorija}}</li>
-                                    <li class="list-group-item"><tt>Mascobe:</tt> {{objekt.mascobe}}g</li>
-                                    <li class="list-group-item"><tt>Nasicene mascobe:</tt> {{objekt.nasicene_mascobe}}g</li>
-                                    <li class="list-group-item"><tt>Sladkorji:</tt> {{objekt.sladkorji}}g</li>
-                                    <li class="list-group-item"><tt>Sol:</tt> {{objekt.sol}}g</li>
+                                    <li class={{objekt.barva_mascobe}}><tt>Mascobe:</tt> {{objekt.mascobe}}g</li>
+                                    <li class={{objekt.barva_nasicene}}><tt>Nasicene mascobe:</tt> {{objekt.nasicene_mascobe}}g</li>
+                                    <li class={{objekt.barva_sladkor}}><tt>Sladkorji:</tt> {{objekt.sladkorji}}g</li>
+                                    <li class={{objekt.barva_sol}}><tt>Sol:</tt> {{objekt.sol}}g</li>
+                                    
                                 </ul> 
                             </p>
                         </div>
             </div>
+            
             
        
                     
