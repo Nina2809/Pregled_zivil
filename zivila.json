@@ -124,5 +124,14 @@
     "sladkorji": 4.0,
     "sol": 4.0,
     "url": ""
+  },
+  {
+    "ime": "test",
+    "kategorija": "mlecni izdelki",
+    "mascobe": 2.0,
+    "nasicene_mascobe": 2.0,
+    "sladkorji": 2.0,
+    "sol": 2.0,
+    "url": "slike/sladoledi.jpg"
   }
 ]

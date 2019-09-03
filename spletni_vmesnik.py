@@ -3,16 +3,7 @@ import bottle
 from model import *
 
 
-tabela_zivil = []
-
-def pregled_metoda(kategorija_insert):
-    tabela_zivil = objekti()
-    kategorija = kategorija_insert
-    return bottle.template('views/zivilo_pogled', tabela_zivil_objektov=tabela_zivil, kategorija = kategorija)
-
-
 @bottle.get('/')
-
 def osnovna_stran():
     return bottle.template('views/opis_strani')
 
@@ -21,6 +12,12 @@ def naslednja_stran():
     return bottle.template('views/baza_zivil')
 
 # POGLED GLEDE NA KATEGORIJO :
+#----------------------- GLAVNA METODA ZA PREGLED
+def pregled_metoda(kategorija_insert):
+    tabela_zivil = nalozi_json()
+    return bottle.template('views/zivilo_pogled', tabela_zivil_objektov=tabela_zivil, kategorija = kategorija_insert)
+#------------------------
+
 @bottle.get('/pregled_vse')
 def pregled():
     return pregled_metoda("vse")
@@ -94,9 +91,6 @@ def slike(ime):
 def templates(ime):
     return bottle.static_file(ime, root = 'views')
 
-@bottle.get('/preveri_prehranski_profil')
-def preveri():
-    return bottle.template('views/preveri_prehranski_profil')
 
 
 

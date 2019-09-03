@@ -29,7 +29,7 @@ def objekti():
     za vsakega vstvari razred Zivilo
     in vrne list vseh razredov zivil
 '''
-def objekti():
+def nalozi_json():
     with open('zivila.json') as f:
         zivila = json.load(f)
     tabela_objektov = []
@@ -45,11 +45,11 @@ def dodaj_novo():
     nalozimo v python, dodamo zivilo,
     zapisemo vsa zivila nazaj v datoteko
 '''
-def dodaj_novo(slovar):
+def dodaj_novo(novo_zivilo):
     with open("zivila.json") as datoteka:
         zacasno = json.load(datoteka)
 
-    zacasno.append(slovar)
+    zacasno.append(novo_zivilo)
     with open("zivila.json", mode='w', encoding='utf-8') as f:
         f.write(json.dumps(zacasno, indent=2))
 
