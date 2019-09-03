@@ -3,12 +3,16 @@
 
 <div class="card text-center">
         <div class="card-header">
-          IZBERI ŽELJENO KATEGORIJO
+          BAZA ŽIVIL IN PIJAČ
         </div>
         <div class="card-body">
-          <p class="card-text">Baza živil in pijač je za lažji pregled urejena po kategorijah, s klikom na željeno kategorijo se bojo prikazala zgolj živila, ki spadajo v to kategorijo. V kolikor te zanimajo vsa živila v bazi pritisni na sledeči gumb.</p>
+          <p class="card-text">Baza živil in pijač je za lažji pregled urejena po kategorijah, s klikom na željeno kategorijo se bojo prikazala zgolj živila, ki spadajo v izbrano kategorijo. V kolikor te zanimajo vsa živila v bazi pritisni na sledeči gumb.</p>
           <form action="/pregled_vse">
             <button type="submit" class="btn btn-light">VSA ŽIVILA</button> 
+          </form>
+          <p>V kolikor pa tvojega živila, še ni v bazi, pritisni na sodnji gumb in ga dodaj, ter tako preveri ustreznost vsebovanosti hranilnih vrednosti.</p>
+          <form action="/dodajanje">
+            <button type="submit" class="btn btn-light">DODAJ ŽIVILO</button> 
           </form>
         </div>
 </div>
