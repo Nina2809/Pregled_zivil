@@ -81,7 +81,7 @@ def dodajanje():
     }
     dodaj_novo(slovar_novega)
     
-    return "Dodajanje uspesno!"
+    return bottle.template('views/dodano')
 
 @bottle.get('/slike/<ime>')
 def slike(ime):
