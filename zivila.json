@@ -10,7 +10,7 @@
   },
   {
     "ime": "Mercator, Sirni namaz s smetano",
-    "kategorija": "slike/sirninamaz.jpg",
+    "kategorija": "mlecni izdelki",
     "mascobe": 25,
     "nasicene_mascobe": 15.9,
     "sladkorji": 3.2,
@@ -19,7 +19,7 @@
   },
   {
     "ime": "Carloni, Mozzarella",
-    "kategorija": "",
+    "kategorija": "mlecni izdelki",
     "mascobe": 20,
     "nasicene_mascobe": 13,
     "sladkorji": 0.8,
@@ -28,7 +28,7 @@
   },
   {
     "ime": "ABC Classic, Sve\u00c5\u00bei kremni sir",
-    "kategorija": "",
+    "kategorija": "mlecni izdelki",
     "mascobe": 22,
     "nasicene_mascobe": 15.8,
     "sladkorji": 2.5,
@@ -37,7 +37,7 @@
   },
   {
     "ime": "Zelene doline, Mladi kajmak",
-    "kategorija": "",
+    "kategorija": "mlecni izdelki",
     "mascobe": 45,
     "nasicene_mascobe": 29,
     "sladkorji": 2.4,
@@ -91,7 +91,7 @@
   },
   {
     "ime": "Ljubljanske mlekarne, Planica",
-    "kategorija": "zmrznjena \u00c5\u00beivila",
+    "kategorija": "mlecni izdelki",
     "mascobe": 21.4,
     "nasicene_mascobe": 10,
     "sladkorji": 26.8,
@@ -100,7 +100,7 @@
   },
   {
     "ime": "Ljubljanske mlekarne, Lucka",
-    "kategorija": "zmrznjena \u00c5\u00beivila",
+    "kategorija": "mlecni izdelki",
     "mascobe": 17.1,
     "nasicene_mascobe": 12.7,
     "sladkorji": 21.5,
@@ -109,7 +109,7 @@
   },
   {
     "ime": "Grandessa, Sladoled limona",
-    "kategorija": "zmrznjena \u00c5\u00beivila",
+    "kategorija": "mlecni izdelki",
     "mascobe": 8,
     "nasicene_mascobe": 6.7,
     "sladkorji": 25,
