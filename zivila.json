@@ -115,5 +115,248 @@
     "sladkorji": 25,
     "sol": 0.05,
     "url": "slike/gradessa_s.jpg"
+  },
+  {
+    "ime": "Mercator, Koruzni zdrob",
+    "kategorija": "riz in zitni izdelki",
+    "mascobe": 1.0,
+    "nasicene_mascobe": 0.15,
+    "sladkorji": 1.3,
+    "sol": 0.01,
+    "url": "slike/zdrob.jpg"
+  },
+  {
+    "ime": "Spar, Honey Pops",
+    "kategorija": "riz in zitni izdelki",
+    "mascobe": 1.5,
+    "nasicene_mascobe": 0.1,
+    "sladkorji": 33.0,
+    "sol": 0.01,
+    "url": "slike/pops.jpg"
+  },
+  {
+    "ime": "Happy Harvest, Choco Krunchy",
+    "kategorija": "riz in zitni izdelki",
+    "mascobe": 3.6,
+    "nasicene_mascobe": 0.5,
+    "sladkorji": 24.0,
+    "sol": 0.53,
+    "url": "slike/krunchy.jpg"
+  },
+  {
+    "ime": "Zlato polje, 3 ri\u00c5\u00bei",
+    "kategorija": "riz in zitni izdelki",
+    "mascobe": 3.1,
+    "nasicene_mascobe": 0.63,
+    "sladkorji": 1.4,
+    "sol": 0.003,
+    "url": "slike/rizi.jpg"
+  },
+  {
+    "ime": "Happy Harvest, Ovseni kosmi\u00c4\u008di",
+    "kategorija": "riz in zitni izdelki",
+    "mascobe": 7.0,
+    "nasicene_mascobe": 1.3,
+    "sladkorji": 0.7,
+    "sol": 0.02,
+    "url": "slike/ovsenikosmici.jpg"
+  },
+  {
+    "ime": "Steinofen-Pizza Margherita",
+    "kategorija": "pripravljene jedi",
+    "mascobe": 5.3,
+    "nasicene_mascobe": 2.1,
+    "sladkorji": 4.1,
+    "sol": 0.93,
+    "url": "slike/picamargerita.jpg"
+  },
+  {
+    "ime": "Fant me\u00c5\u00a1anica za \u00c5\u00a1pagete bolognese",
+    "kategorija": "pripravljene jedi",
+    "mascobe": 6.0,
+    "nasicene_mascobe": 3.8,
+    "sladkorji": 35.0,
+    "sol": 11.5,
+    "url": "slike/fantbolones.jpg"
+  },
+  {
+    "ime": "Fant me\u00c5\u00a1anica za gola\u00c5\u00be in paprika\u00c5\u00a1",
+    "kategorija": "pripravljene jedi",
+    "mascobe": 1.9,
+    "nasicene_mascobe": 0.3,
+    "sladkorji": 30.0,
+    "sol": 14.0,
+    "url": "slike/fantgolz.jpg"
+  },
+  {
+    "ime": "Knorr, Gobova juha s \u00c5\u00a1ampinjoni in pope\u00c4\u008denimi kruhki",
+    "kategorija": "pripravljene jedi",
+    "mascobe": 1.8,
+    "nasicene_mascobe": 1.0,
+    "sladkorji": 0.6,
+    "sol": 0.98,
+    "url": "slike/knorr_gobova_juha.jpg"
+  },
+  {
+    "ime": "Natureta, Prebranec",
+    "kategorija": "pripravljene jedi",
+    "mascobe": 5.3,
+    "nasicene_mascobe": 1.0,
+    "sladkorji": 0.1,
+    "sol": 0.9,
+    "url": "slike/prebranec.jpg"
+  },
+  {
+    "ime": "Natureta, \u00c4\u008cufti v paradi\u00c5\u00benikovi omaki",
+    "kategorija": "pripravljene jedi",
+    "mascobe": 4.6,
+    "nasicene_mascobe": 1.6,
+    "sladkorji": 0.9,
+    "sol": 0.9,
+    "url": "slike/cufti-v-paradiznikovi-omaki.jpg"
+  },
+  {
+    "ime": "Natureta, Hren s smetano",
+    "kategorija": "zelenjavni izdelki",
+    "mascobe": 27.0,
+    "nasicene_mascobe": 3.0,
+    "sladkorji": 3.0,
+    "sol": 0.8,
+    "url": "slike/hren-s-smetano-1.jpg"
+  },
+  {
+    "ime": "Gourmet, Omaka iz \u00c5\u00a1e\u00c4\u008dnjevega paradi\u00c5\u00benika",
+    "kategorija": "zelenjavni izdelki",
+    "mascobe": 0.6,
+    "nasicene_mascobe": 0.1,
+    "sladkorji": 6.7,
+    "sol": 0.62,
+    "url": "slike/gourmet_omaka_paradiznik.jpg"
+  },
+  {
+    "ime": "Argeta, Zelenjavni namaz rde\u00c4\u008da pesa in hren",
+    "kategorija": "zelenjavni izdelki",
+    "mascobe": 17.0,
+    "nasicene_mascobe": 2.2,
+    "sladkorji": 1.6,
+    "sol": 0.63,
+    "url": "slike/RdecaPesa.jpg"
+  },
+  {
+    "ime": "Natureta, Pomladna zelenjava",
+    "kategorija": "zelenjavni izdelki",
+    "mascobe": 0.1,
+    "nasicene_mascobe": 0.1,
+    "sladkorji": 3.9,
+    "sol": 0.1,
+    "url": "slike/pomladna-zelenjava.jpg"
+  },
+  {
+    "ime": "Yummy dip,Humus",
+    "kategorija": "zelenjavni izdelki",
+    "mascobe": 14.0,
+    "nasicene_mascobe": 1.9,
+    "sladkorji": 0.8,
+    "sol": 1.17,
+    "url": "slike/ydhumus.jpg"
+  },
+  {
+    "ime": "Odli\u00c4\u008dno, Suhi dateljni",
+    "kategorija": "sadni izdelki",
+    "mascobe": 0.5,
+    "nasicene_mascobe": 0.01,
+    "sladkorji": 64.7,
+    "sol": 0.01,
+    "url": "slike/datelni.jpg"
+  },
+  {
+    "ime": "Noberasco, Bio suhe fige",
+    "kategorija": "sadni izdelki",
+    "mascobe": 2.0,
+    "nasicene_mascobe": 0.3,
+    "sladkorji": 47.0,
+    "sol": 0.12,
+    "url": "slike/naberasco.jpg"
+  },
+  {
+    "ime": "Darbo Reform, Mareli\u00c4\u008dni namaz s sladilom z nizko vsebnostjo sladkorjev",
+    "kategorija": "sadni izdelki",
+    "mascobe": 0.0,
+    "nasicene_mascobe": 0.0,
+    "sladkorji": 3.5,
+    "sol": 0.01,
+    "url": "slike/medex_darbo_marelica.jpg"
+  },
+  {
+    "ime": "Alesto, Brusnice",
+    "kategorija": "sadni izdelki",
+    "mascobe": 1.2,
+    "nasicene_mascobe": 0.2,
+    "sladkorji": 70.5,
+    "sol": 0.01,
+    "url": "slike/alesto-cranberries-dried-and-sweetene.jpg"
+  },
+  {
+    "ime": "Vermondo, Goji jagode",
+    "kategorija": "sadni izdelki",
+    "mascobe": 3.1,
+    "nasicene_mascobe": 0.5,
+    "sladkorji": 34.0,
+    "sol": 1.6,
+    "url": "slike/dried-goji-berries.jpg"
+  },
+  {
+    "ime": "Natureta, Ekstra borovni\u00c4\u008dev d\u00c5\u00beem",
+    "kategorija": "sadni izdelki",
+    "mascobe": 0.2,
+    "nasicene_mascobe": 0.1,
+    "sladkorji": 36.8,
+    "sol": 0.02,
+    "url": "slike/dzem.jpg"
+  },
+  {
+    "ime": "Kinder, Mle\u00c4\u008dna \u00c4\u008dokolada",
+    "kategorija": "sladkarije in slani prigrizki",
+    "mascobe": 35.0,
+    "nasicene_mascobe": 22.6,
+    "sladkorji": 53.3,
+    "sol": 0.313,
+    "url": "slike/kinder.jpg"
+  },
+  {
+    "ime": "Sonnentor, Bio angel\u00c4\u008dki",
+    "kategorija": "sladkarije in slani prigrizki",
+    "mascobe": 0.5,
+    "nasicene_mascobe": 0.1,
+    "sladkorji": 59.0,
+    "sol": 0.21,
+    "url": "slike/sonnentor-bio-predrzni-angelcki.jpg"
+  },
+  {
+    "ime": "Choceur, Milk Mouse caramel",
+    "kategorija": "sladkarije in slani prigrizki",
+    "mascobe": 30.6,
+    "nasicene_mascobe": 19.7,
+    "sladkorji": 51.5,
+    "sol": 0.3,
+    "url": "slike/milk-mouse.jpg"
+  },
+  {
+    "ime": "Plamil, Dairy free bears",
+    "kategorija": "sladkarije in slani prigrizki",
+    "mascobe": 40.9,
+    "nasicene_mascobe": 24.0,
+    "sladkorji": 42.5,
+    "sol": 0.07,
+    "url": "slike/df-bears.jpg"
+  },
+  {
+    "ime": "Barni, Mehki biskvit s \u00c4\u008dokoladnim polnilom",
+    "kategorija": "sladkarije in slani prigrizki",
+    "mascobe": 16.0,
+    "nasicene_mascobe": 3.1,
+    "sladkorji": 29.0,
+    "sol": 0.83,
+    "url": "slike/barni.jpg"
   }
 ]
