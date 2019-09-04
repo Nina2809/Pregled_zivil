@@ -24,7 +24,7 @@ def pregled():
 
 @bottle.get('/pregled_mlecni_izdelki')
 def pregled():
-    return pregled_metoda("mlecni izdelki")
+    return pregled_metoda("mlečni izdelki")
 
 @bottle.get('/pregled_mesni_ribe')
 def pregled():
@@ -32,7 +32,7 @@ def pregled():
 
 @bottle.get('/pregled_riz_zito')
 def pregled():
-    return pregled_metoda("riz in zitni izdelki")
+    return pregled_metoda("riž in žitni izdelki")
 
 @bottle.get('/pregled_pripravljene')
 def pregled():
@@ -52,7 +52,7 @@ def pregled():
 
 @bottle.get('/pregled_gazirane')
 def pregled():
-    return pregled_metoda("gazirane pijace")
+    return pregled_metoda("gazirane pijače")
 
 @bottle.get('/pregled_sadni_sokovi')
 def pregled():
@@ -71,8 +71,8 @@ def dodajanje():
 @bottle.get('/dodano')
 def dodajanje():
     slovar_novega = {
-        "ime": bottle.request.query['ime'],
-        "kategorija": bottle.request.query['kategorija'],
+        "ime": bottle.request.query.ime,
+        "kategorija": bottle.request.query.kategorija,
         'mascobe': float(bottle.request.query['mascobe']),
         'nasicene_mascobe': float(bottle.request.query['nasiceneMascobe']),
         'sladkorji': float(bottle.request.query['sladkorji']),

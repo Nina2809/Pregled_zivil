@@ -1,167 +1,5 @@
 [
   {
-    "ime": "Philadelphia original, sirni namaz",
-    "kategorija": "mlecni izdelki",
-    "mascobe": 21,
-    "nasicene_mascobe": 14,
-    "sladkorji": 4.3,
-    "sol": 0.75,
-    "url": "slike/philadelphia.jpg"
-  },
-  {
-    "ime": "Mercator, Sirni namaz s smetano",
-    "kategorija": "mlecni izdelki",
-    "mascobe": 25,
-    "nasicene_mascobe": 15.9,
-    "sladkorji": 3.2,
-    "sol": 0.9,
-    "url": "slike/sirninamaz.jpg"
-  },
-  {
-    "ime": "Carloni, Mozzarella",
-    "kategorija": "mlecni izdelki",
-    "mascobe": 20,
-    "nasicene_mascobe": 13,
-    "sladkorji": 0.8,
-    "sol": 0.4,
-    "url": "slike/mozzarela.jpg"
-  },
-  {
-    "ime": "ABC Classic, Sve\u00c5\u00bei kremni sir",
-    "kategorija": "mlecni izdelki",
-    "mascobe": 22,
-    "nasicene_mascobe": 15.8,
-    "sladkorji": 2.5,
-    "sol": 1.1,
-    "url": "slike/abc.jpg"
-  },
-  {
-    "ime": "Zelene doline, Mladi kajmak",
-    "kategorija": "mlecni izdelki",
-    "mascobe": 45,
-    "nasicene_mascobe": 29,
-    "sladkorji": 2.4,
-    "sol": 0.9,
-    "url": "slike/kajmak.jpg"
-  },
-  {
-    "ime": "Kekec, Tunina pa\u00c5\u00a1teta",
-    "kategorija": "mesni in ribji izdelki",
-    "mascobe": 21.5,
-    "nasicene_mascobe": 2.7,
-    "sladkorji": 0.8,
-    "sol": 1.6,
-    "url": "slike/kekec.jpg"
-  },
-  {
-    "ime": "AVE, Toast \u00c5\u00a1unka narezek",
-    "kategorija": "mesni in ribji izdelki",
-    "mascobe": 4.5,
-    "nasicene_mascobe": 0.5,
-    "sladkorji": 0.5,
-    "sol": 2,
-    "url": "slike/narezki_toast_sunka.jpg"
-  },
-  {
-    "ime": "S Budget ribje palcke",
-    "kategorija": "mesni in ribji izdelki",
-    "mascobe": 9,
-    "nasicene_mascobe": 1.1,
-    "sladkorji": 0.9,
-    "sol": 1,
-    "url": "slike/ribje_palcke.jpg"
-  },
-  {
-    "ime": "Rio mare, Tuna v oljcnem olju",
-    "kategorija": "mesni in ribji izdelki",
-    "mascobe": 37,
-    "nasicene_mascobe": 6,
-    "sladkorji": 0,
-    "sol": 1.1,
-    "url": "slike/riomare.jpg"
-  },
-  {
-    "ime": "Okus pode\u00c5\u00beelja; Pi\u00c5\u00a1cancji zrezki iz stegna",
-    "kategorija": "mesni in ribji izdelki",
-    "mascobe": 7.6,
-    "nasicene_mascobe": 2.2,
-    "sladkorji": 0.5,
-    "sol": 0.2,
-    "url": "slike/zrezki.jpg"
-  },
-  {
-    "ime": "Ljubljanske mlekarne, Planica",
-    "kategorija": "mlecni izdelki",
-    "mascobe": 21.4,
-    "nasicene_mascobe": 10,
-    "sladkorji": 26.8,
-    "sol": 0.11,
-    "url": "slike/planica.jpg"
-  },
-  {
-    "ime": "Ljubljanske mlekarne, Lucka",
-    "kategorija": "mlecni izdelki",
-    "mascobe": 17.1,
-    "nasicene_mascobe": 12.7,
-    "sladkorji": 21.5,
-    "sol": 0.15,
-    "url": "slike/lucka.jpg"
-  },
-  {
-    "ime": "Grandessa, Sladoled limona",
-    "kategorija": "mlecni izdelki",
-    "mascobe": 8,
-    "nasicene_mascobe": 6.7,
-    "sladkorji": 25,
-    "sol": 0.05,
-    "url": "slike/gradessa_s.jpg"
-  },
-  {
-    "ime": "Mercator, Koruzni zdrob",
-    "kategorija": "riz in zitni izdelki",
-    "mascobe": 1.0,
-    "nasicene_mascobe": 0.15,
-    "sladkorji": 1.3,
-    "sol": 0.01,
-    "url": "slike/zdrob.jpg"
-  },
-  {
-    "ime": "Spar, Honey Pops",
-    "kategorija": "riz in zitni izdelki",
-    "mascobe": 1.5,
-    "nasicene_mascobe": 0.1,
-    "sladkorji": 33.0,
-    "sol": 0.01,
-    "url": "slike/pops.jpg"
-  },
-  {
-    "ime": "Happy Harvest, Choco Krunchy",
-    "kategorija": "riz in zitni izdelki",
-    "mascobe": 3.6,
-    "nasicene_mascobe": 0.5,
-    "sladkorji": 24.0,
-    "sol": 0.53,
-    "url": "slike/krunchy.jpg"
-  },
-  {
-    "ime": "Zlato polje, 3 ri\u00c5\u00bei",
-    "kategorija": "riz in zitni izdelki",
-    "mascobe": 3.1,
-    "nasicene_mascobe": 0.63,
-    "sladkorji": 1.4,
-    "sol": 0.003,
-    "url": "slike/rizi.jpg"
-  },
-  {
-    "ime": "Happy Harvest, Ovseni kosmi\u00c4\u008di",
-    "kategorija": "riz in zitni izdelki",
-    "mascobe": 7.0,
-    "nasicene_mascobe": 1.3,
-    "sladkorji": 0.7,
-    "sol": 0.02,
-    "url": "slike/ovsenikosmici.jpg"
-  },
-  {
     "ime": "Steinofen-Pizza Margherita",
     "kategorija": "pripravljene jedi",
     "mascobe": 5.3,
@@ -169,33 +7,6 @@
     "sladkorji": 4.1,
     "sol": 0.93,
     "url": "slike/picamargerita.jpg"
-  },
-  {
-    "ime": "Fant me\u00c5\u00a1anica za \u00c5\u00a1pagete bolognese",
-    "kategorija": "pripravljene jedi",
-    "mascobe": 6.0,
-    "nasicene_mascobe": 3.8,
-    "sladkorji": 35.0,
-    "sol": 11.5,
-    "url": "slike/fantbolones.jpg"
-  },
-  {
-    "ime": "Fant me\u00c5\u00a1anica za gola\u00c5\u00be in paprika\u00c5\u00a1",
-    "kategorija": "pripravljene jedi",
-    "mascobe": 1.9,
-    "nasicene_mascobe": 0.3,
-    "sladkorji": 30.0,
-    "sol": 14.0,
-    "url": "slike/fantgolz.jpg"
-  },
-  {
-    "ime": "Knorr, Gobova juha s \u00c5\u00a1ampinjoni in pope\u00c4\u008denimi kruhki",
-    "kategorija": "pripravljene jedi",
-    "mascobe": 1.8,
-    "nasicene_mascobe": 1.0,
-    "sladkorji": 0.6,
-    "sol": 0.98,
-    "url": "slike/knorr_gobova_juha.jpg"
   },
   {
     "ime": "Natureta, Prebranec",
@@ -207,15 +18,6 @@
     "url": "slike/prebranec.jpg"
   },
   {
-    "ime": "Natureta, \u00c4\u008cufti v paradi\u00c5\u00benikovi omaki",
-    "kategorija": "pripravljene jedi",
-    "mascobe": 4.6,
-    "nasicene_mascobe": 1.6,
-    "sladkorji": 0.9,
-    "sol": 0.9,
-    "url": "slike/cufti-v-paradiznikovi-omaki.jpg"
-  },
-  {
     "ime": "Natureta, Hren s smetano",
     "kategorija": "zelenjavni izdelki",
     "mascobe": 27.0,
@@ -223,24 +25,6 @@
     "sladkorji": 3.0,
     "sol": 0.8,
     "url": "slike/hren-s-smetano-1.jpg"
-  },
-  {
-    "ime": "Gourmet, Omaka iz \u00c5\u00a1e\u00c4\u008dnjevega paradi\u00c5\u00benika",
-    "kategorija": "zelenjavni izdelki",
-    "mascobe": 0.6,
-    "nasicene_mascobe": 0.1,
-    "sladkorji": 6.7,
-    "sol": 0.62,
-    "url": "slike/gourmet_omaka_paradiznik.jpg"
-  },
-  {
-    "ime": "Argeta, Zelenjavni namaz rde\u00c4\u008da pesa in hren",
-    "kategorija": "zelenjavni izdelki",
-    "mascobe": 17.0,
-    "nasicene_mascobe": 2.2,
-    "sladkorji": 1.6,
-    "sol": 0.63,
-    "url": "slike/RdecaPesa.jpg"
   },
   {
     "ime": "Natureta, Pomladna zelenjava",
@@ -261,15 +45,6 @@
     "url": "slike/ydhumus.jpg"
   },
   {
-    "ime": "Odli\u00c4\u008dno, Suhi dateljni",
-    "kategorija": "sadni izdelki",
-    "mascobe": 0.5,
-    "nasicene_mascobe": 0.01,
-    "sladkorji": 64.7,
-    "sol": 0.01,
-    "url": "slike/datelni.jpg"
-  },
-  {
     "ime": "Noberasco, Bio suhe fige",
     "kategorija": "sadni izdelki",
     "mascobe": 2.0,
@@ -277,15 +52,6 @@
     "sladkorji": 47.0,
     "sol": 0.12,
     "url": "slike/naberasco.jpg"
-  },
-  {
-    "ime": "Darbo Reform, Mareli\u00c4\u008dni namaz s sladilom z nizko vsebnostjo sladkorjev",
-    "kategorija": "sadni izdelki",
-    "mascobe": 0.0,
-    "nasicene_mascobe": 0.0,
-    "sladkorji": 3.5,
-    "sol": 0.01,
-    "url": "slike/medex_darbo_marelica.jpg"
   },
   {
     "ime": "Alesto, Brusnice",
@@ -306,33 +72,6 @@
     "url": "slike/dried-goji-berries.jpg"
   },
   {
-    "ime": "Natureta, Ekstra borovni\u00c4\u008dev d\u00c5\u00beem",
-    "kategorija": "sadni izdelki",
-    "mascobe": 0.2,
-    "nasicene_mascobe": 0.1,
-    "sladkorji": 36.8,
-    "sol": 0.02,
-    "url": "slike/dzem.jpg"
-  },
-  {
-    "ime": "Kinder, Mle\u00c4\u008dna \u00c4\u008dokolada",
-    "kategorija": "sladkarije in slani prigrizki",
-    "mascobe": 35.0,
-    "nasicene_mascobe": 22.6,
-    "sladkorji": 53.3,
-    "sol": 0.313,
-    "url": "slike/kinder.jpg"
-  },
-  {
-    "ime": "Sonnentor, Bio angel\u00c4\u008dki",
-    "kategorija": "sladkarije in slani prigrizki",
-    "mascobe": 0.5,
-    "nasicene_mascobe": 0.1,
-    "sladkorji": 59.0,
-    "sol": 0.21,
-    "url": "slike/sonnentor-bio-predrzni-angelcki.jpg"
-  },
-  {
     "ime": "Choceur, Milk Mouse caramel",
     "kategorija": "sladkarije in slani prigrizki",
     "mascobe": 30.6,
@@ -351,12 +90,174 @@
     "url": "slike/df-bears.jpg"
   },
   {
-    "ime": "Barni, Mehki biskvit s \u00c4\u008dokoladnim polnilom",
+    "ime": "Eko snek, Eko kokice",
+    "kategorija": "sladkarije in slani prigrizki",
+    "mascobe": 30.2,
+    "nasicene_mascobe": 16.3,
+    "sladkorji": 0.6,
+    "sol": 1.5,
+    "url": "slike/ekosnek-eko-kokice.jpg"
+  },
+  {
+    "ime": "Mercator, Slani krekerji",
     "kategorija": "sladkarije in slani prigrizki",
     "mascobe": 16.0,
-    "nasicene_mascobe": 3.1,
-    "sladkorji": 29.0,
-    "sol": 0.83,
-    "url": "slike/barni.jpg"
+    "nasicene_mascobe": 6.6,
+    "sladkorji": 3.8,
+    "sol": 3.0,
+    "url": "slike/m-slani-krekerji.jpg"
+  },
+  {
+    "ime": "Dr. Oetker, Paula",
+    "kategorija": "mle\u010dni izdelki",
+    "mascobe": 3.9,
+    "nasicene_mascobe": 2.5,
+    "sladkorji": 12.0,
+    "sol": 0.18,
+    "url": "slike/paula.jpg"
+  },
+  {
+    "ime": "Milfina, FruitMilfinis ",
+    "kategorija": "mle\u010dni izdelki",
+    "mascobe": 2.9,
+    "nasicene_mascobe": 1.9,
+    "sladkorji": 11.5,
+    "sol": 0.1,
+    "url": "slike/fruit.jpg"
+  },
+  {
+    "ime": "Lumpi Choco Puding",
+    "kategorija": "mle\u010dni izdelki",
+    "mascobe": 10.2,
+    "nasicene_mascobe": 6.3,
+    "sladkorji": 20.1,
+    "sol": 0.13,
+    "url": "slike/puding.jpg"
+  },
+  {
+    "ime": "Danone, Actimel Kids jagoda in banana",
+    "kategorija": "mle\u010dni izdelki",
+    "mascobe": 1.5,
+    "nasicene_mascobe": 1.0,
+    "sladkorji": 10.6,
+    "sol": 0.11,
+    "url": "slike/actimel.jpg"
+  },
+  {
+    "ime": "Zelene doline, LCA power jogurt",
+    "kategorija": "mle\u010dni izdelki",
+    "mascobe": 1.4,
+    "nasicene_mascobe": 0.9,
+    "sladkorji": 3.5,
+    "sol": 0.12,
+    "url": "slike/LCA.jpg"
+  },
+  {
+    "ime": "ABC Junior, Sve\u017ei kremni sir",
+    "kategorija": "mle\u010dni izdelki",
+    "mascobe": 22.5,
+    "nasicene_mascobe": 15.9,
+    "sladkorji": 3.0,
+    "sol": 0.7,
+    "url": "slike/ABC Junior.jpg"
+  },
+  {
+    "ime": "Mu, Muki skuta banana",
+    "kategorija": "mle\u010dni izdelki",
+    "mascobe": 2.6,
+    "nasicene_mascobe": 1.3,
+    "sladkorji": 12.4,
+    "sol": 0.09,
+    "url": "slike/muki.jpg"
+  },
+  {
+    "ime": "Natur aktiv, Bio sve\u017ei sir, naraven ",
+    "kategorija": "mle\u010dni izdelki",
+    "mascobe": 15.0,
+    "nasicene_mascobe": 9.5,
+    "sladkorji": 3.5,
+    "sol": 0.63,
+    "url": "slike/bio.jpg"
+  },
+  {
+    "ime": "Philadelphia original, Sirni namaz",
+    "kategorija": "mle\u010dni izdelki",
+    "mascobe": 21.0,
+    "nasicene_mascobe": 14.0,
+    "sladkorji": 4.3,
+    "sol": 0.75,
+    "url": "slike/sirni-namaz-philadelphia-classic.jpg"
+  },
+  {
+    "ime": "ABC, Sve\u017ei kremni sir",
+    "kategorija": "mle\u010dni izdelki",
+    "mascobe": 22.5,
+    "nasicene_mascobe": 15.9,
+    "sladkorji": 3.0,
+    "sol": 0.8,
+    "url": "slike/abc sir classic.jpg"
+  },
+  {
+    "ime": "Mercator, Sirni namaz s smetano",
+    "kategorija": "mle\u010dni izdelki",
+    "mascobe": 25.0,
+    "nasicene_mascobe": 15.9,
+    "sladkorji": 3.2,
+    "sol": 0.9,
+    "url": "slike/sirninamaz.jpg"
+  },
+  {
+    "ime": "Carloni, Mozzarella",
+    "kategorija": "mle\u010dni izdelki",
+    "mascobe": 20.0,
+    "nasicene_mascobe": 13.0,
+    "sladkorji": 0.8,
+    "sol": 0.4,
+    "url": "slike/mozzarela.jpg"
+  },
+  {
+    "ime": "Pilos, Skyr",
+    "kategorija": "mle\u010dni izdelki",
+    "mascobe": 0.2,
+    "nasicene_mascobe": 0.1,
+    "sladkorji": 4.0,
+    "sol": 0.13,
+    "url": "slike/pilos.jpg"
+  },
+  {
+    "ime": "Gradessa, Sladoled limona",
+    "kategorija": "mle\u010dni izdelki",
+    "mascobe": 8.0,
+    "nasicene_mascobe": 6.7,
+    "sladkorji": 25.0,
+    "sol": 0.05,
+    "url": "slike/gradessa_s.jpg"
+  },
+  {
+    "ime": "Ljubljanske mlekarne, Lu\u010dka",
+    "kategorija": "mle\u010dni izdelki",
+    "mascobe": 17.1,
+    "nasicene_mascobe": 12.7,
+    "sladkorji": 21.5,
+    "sol": 0.15,
+    "url": "slike/lucka.jpg"
+  },
+  {
+    "ime": "Ljubljanske mlekarne, Planica",
+    "kategorija": "mle\u010dni izdelki",
+    "mascobe": 10.4,
+    "nasicene_mascobe": 6.8,
+    "sladkorji": 20.0,
+    "sol": 0.12,
+    "url": "slike/planica.jpg"
+  },
+  {
+    "ime": "Ljubljanske mlekarne, Planica",
+    "kategorija": "mle\u010dni izdelki",
+    "mascobe": 10.4,
+    "nasicene_mascobe": 6.8,
+    "sladkorji": 20.0,
+    "sol": 0.12,
+    "url": "slike/planica.jpg"
   }
 ]
