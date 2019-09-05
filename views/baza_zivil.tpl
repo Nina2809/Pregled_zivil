@@ -64,7 +64,7 @@
         <div class="card" style="width: 18rem;">
         <img src="slike/pripravljeni_obroki.jpg" class="card-img-top" alt="pripravljene_jedi">
             <div class="card-body">
-                <p class="card-text">V kategorijo pripravljene jedi sodijo izdelki, ki so bili predhodno pripravljeni s strani proizvajalca. Potrošniku omogočajo hiter in celovit obrok. Sem spadajo sendviči,  že pripravljene solate, juhe v prahu, zmrznjene pice, jedi iz konzerve, mešanice za pripravo omak, ...</p>
+                <p class="card-text">V kategorijo pripravljene jedi sodijo izdelki, ki so bili predhodno pripravljeni s strani proizvajalca. Potrošniku omogočajo hiter in celovit obrok. Sem spadajo sendviči, juhe v prahu, zmrznjene pice, jedi iz konzerve, mešanice za pripravo omak, ...</p>
                     <form action="/pregled_pripravljene">
                         <button class="btn btn-light" type="submit">PRIPRAVLJENE JEDI</button> 
                     </form>
@@ -77,7 +77,7 @@
         <div class="card" style="width: 18rem;">
         <img src="slike/zelenjavni_izdelki.jpg" class="card-img-top" alt="zelenjavni_izdelki">
             <div class="card-body">
-                <p class="card-text">V to kategorijo uvrščamo izdelke, ki se pridobivajo izključno iz zelenjave, pri čemer se lahko dodajo snovi, potrebne za njihovo proizvodnjo. Primer izdelkov, ki sodijo v to skupino so: hren, zelenjavni namazi, zmrznjena zelenjava, humus, zelenjavni zrezki, paradižnikov ketchup, konzerve koruze, graha, ...</p>
+                <p class="card-text">V to kategorijo uvrščamo izdelke, ki se pridobivajo izključno iz zelenjave, pri čemer se lahko dodajo snovi, potrebne za njihovo proizvodnjo. Sem sodijo zelenjavni namazi, zmrznjena zelenjava, humus, zelenjavni zrezki, zelenjavne konzerve, ...</p>
                     <form action="/pregled_zelenjavni">
                         <button class="btn btn-light" type="submit">ZELENJAVNI IZDELKI</button> 
                     </form>              
@@ -104,7 +104,7 @@
         <div class="card" style="width: 18rem;">
         <img src="slike/sladkarije.jpg" class="card-img-top" alt="sladkarije in slani prigrizki">
             <div class="card-body">
-                <p class="card-text">Sladkarije in slani prigrizki so vsi bomboni, čokolade, žvečilni gumiji, piškoti, slane palčke, čipsi, oreščki, ... </p>
+                <p class="card-text">Sladkarije in slani prigrizki so vsi bomboni, čokolade, žvečilni gumiji, piškoti, čipsi, oreščki, ... </p>
                     <form action="/pregled_sladkarije_slani">
                         <button class="btn btn-light" type="submit">SLADKARIJE IN SLANI PRIGRIZKI</button> 
                     </form>
