@@ -11,7 +11,7 @@
             <ul>
               <li>Pri <b>imenu</b> iz embalaže živila natančno prepišite kako se izdelek imenuje.</li>
               <li>Pri <b>kategoriji</b> izberite v katero kategorijo sodi vaš izdelek. V kolikor ste v dvomih kam uvrstiti živilo, pojdite na prejšnjo stran, kjer si lahko pri vsaki kategoriji preberete katera živila vsebuje.</li>
-              <li>Pri naslednjih 4 vrsticah z možnostjo vnašanja, iz embalaže prepišite <b>hranilne vrednosti</b> izdelka (vnesite vrednosti na 100 g ali 100 ml izdelka). Zelo <b>pomembno</b> je, da števila vnesete kot števila s plavajočo vejico. To pomeni, da namesto decimalke zapišete piko. <tt>(Na primer, da je vsebnost maščobe 0,5 na 100g, potem v vrstico, kamor vpisujete maščobo zapišite 0.5)</tt>.</li>
+              <li>Pri naslednjih 4 vrsticah z možnostjo vnašanja, iz embalaže prepišite <b>hranilne vrednosti</b> izdelka (vnesite vrednosti na 100 g ali 100 ml izdelka). Zelo <b>pomembno</b> je, da števila vnesete kot števila s plavajočo vejico. To pomeni, da namesto decimalke zapišete piko. <tt>(Na primer, da je vsebnost maščobe 0,5g na 100g, potem v vrstico, kamor vpisujete maščobo zapišite 0.5)</tt>.</li>
               <li>Zadnja vrstica je namenjena <b>url</b> naslovu slike živila. Slednjega najlažje dobite tako, da v internet vpišete ime živila, izberete ustrezno sliko in prekopirate internetno povezavo do slike.</li>
               <li>Ko vpišete podatke v <b>vsa</b> zgornja okenca, pritisnite gumb DODAJ, če ste vse podatke vnesli pravilno, bo vaše živilo dodano bazi. </li>
             </ul>
