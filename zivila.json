@@ -610,41 +610,5 @@
     "sladkorji": 13.3,
     "sol": 0.0,
     "url": "slike/S-bitter-lemon.jpg"
-  },
-  {
-    "ime": "f",
-    "kategorija": "pripravljene jedi",
-    "mascobe": 4.0,
-    "nasicene_mascobe": 4.0,
-    "sladkorji": 4.0,
-    "sol": 4.0,
-    "url": ""
-  },
-  {
-    "ime": "ime",
-    "kategorija": "mle\u010dni izdelki",
-    "mascobe": 4.0,
-    "nasicene_mascobe": 5.0,
-    "sladkorji": 6.0,
-    "sol": 7.0,
-    "url": ""
-  },
-  {
-    "ime": "ime",
-    "kategorija": "mle\u010dni izdelki",
-    "mascobe": 4.0,
-    "nasicene_mascobe": 5.0,
-    "sladkorji": 6.0,
-    "sol": 7.0,
-    "url": ""
-  },
-  {
-    "ime": "ime",
-    "kategorija": "mle\u010dni izdelki",
-    "mascobe": 4.0,
-    "nasicene_mascobe": 5.0,
-    "sladkorji": 6.0,
-    "sol": 7.0,
-    "url": ""
   }
 ]
