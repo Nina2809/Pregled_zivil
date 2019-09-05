@@ -1,4 +1,4 @@
-%rebase('bootstrap.html')
+%rebase('bootstrap.tpl')
 
             % for i in range (len(tabela_zivil_objektov)):
             %   objekt = tabela_zivil_objektov[i]

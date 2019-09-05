@@ -1,5 +1,5 @@
 
-%rebase('bootstrap.html')
+%rebase('bootstrap.tpl')
 
 <div class="card text-center">
         <div class="card-header">
