@@ -1,5 +1,4 @@
 import bottle
-
 from model import *
 
 
