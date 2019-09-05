@@ -1,4 +1,4 @@
-# Na_hrano_z_glavo
+# Pregled_zivil
 
 Moj prvi projekt v sklopu predmeta Uvod v programiranje, 1. letnik finančne matematike.
 
