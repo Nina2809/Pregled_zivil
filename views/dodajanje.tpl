@@ -76,7 +76,7 @@
  
         <input class="btn btn-light" type="submit" value ="Dodaj">
            
-    
+    </form>
         </div>
 </div>
        
