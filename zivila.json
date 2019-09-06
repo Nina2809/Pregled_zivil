@@ -252,15 +252,6 @@
     "url": "slike/planica.jpg"
   },
   {
-    "ime": "Ljubljanske mlekarne, Planica",
-    "kategorija": "mle\u010dni izdelki",
-    "mascobe": 10.4,
-    "nasicene_mascobe": 6.8,
-    "sladkorji": 20.0,
-    "sol": 0.12,
-    "url": "slike/planica.jpg"
-  },
-  {
     "ime": "Kekec, Tunina pa\u0161teta",
     "kategorija": "mesni in ribji izdelki",
     "mascobe": 21.5,
@@ -880,5 +871,14 @@
     "sladkorji": 10.0,
     "sol": 0.01,
     "url": "slike/2Mercator_gazirana_pijaa_Cola_1.5L.jpg"
+  },
+  {
+    "ime": "Pomurske mlekarne, Ledena kava",
+    "kategorija": "mle\u010dni izdelki",
+    "mascobe": 1.57,
+    "nasicene_mascobe": 0.97,
+    "sladkorji": 5.85,
+    "sol": 0.17,
+    "url": "slike/2213-pomurske-mlekarne-ledena-kava-63-1533123326.jpg"
   }
 ]
