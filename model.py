@@ -1,7 +1,5 @@
 import json
 
-
-
 class Zivilo:
     def __init__(self, tabela):
         self.ime = tabela["ime"]
@@ -38,7 +36,7 @@ def nalozi_json():
         tabela_objektov.append(Zivilo(obj))
 
     return tabela_objektov
-
+    
 '''
 def dodaj_novo():
     odpremo datoteko zivila.json,

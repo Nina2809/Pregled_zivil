@@ -1,7 +1,6 @@
 import bottle
 from model import *
 
-
 @bottle.get('/')
 def osnovna_stran():
     return bottle.template('views/opis_strani')
@@ -59,13 +58,9 @@ def pregled():
 
 #--------------------------------------
 
-
-
-
 @bottle.get('/dodajanje')
 def dodajanje():
     return bottle.template('views/dodajanje')
-
 
 @bottle.get('/dodano')
 def dodajanje():
@@ -89,8 +84,6 @@ def slike(ime):
 @bottle.get('/views/<ime>')
 def templates(ime):
     return bottle.static_file(ime, root = 'views')
-
-
 
 
 bottle.run(debug=True, reloader=True)

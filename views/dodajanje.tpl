@@ -1,5 +1,5 @@
 %rebase('bootstrap.tpl')
-      <style>
+    <style>
             body {
               background-color: rgba(201, 76, 76, 0.3)}
     </style>
@@ -73,16 +73,10 @@
               </div>
               <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" name="url" >
             </div>
-            <!--
-            <ul>
-    <li>        kategorija: <input type="text" name="kategorija">        
-        </ul>
-        -->
-
-        
+ 
         <input class="btn btn-light" type="submit" value ="Dodaj">
-            </form>
+           
     
         </div>
-      </div>
+</div>
        
