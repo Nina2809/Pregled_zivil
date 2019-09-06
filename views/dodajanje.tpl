@@ -30,8 +30,8 @@
               <div class="input-group-prepend">
                 <label class="input-group-text" for="inputGroupSelect01" name="kategorija">Kategorija</label>
               </div>
-              <select class="custom-select" id="inputGroupSelect01" name='kategorija'>
-                <option selected>izberi v katero kategorijo spada tvoj izdelek...</option>
+              <select class="custom-select" id="inputGroupSelect01" name='kategorija' required>
+                <option value="" >izberi v katero kategorijo spada tvoj izdelek...</option>
                 <option value="mlečni izdelki">Mlečni izdeleki</option>
                 <option value="mesni in ribji izdelki">Mesni in ribji izdelki</option>
                 <option value="pripravljene jedi">Pripravljene jedi</option>
