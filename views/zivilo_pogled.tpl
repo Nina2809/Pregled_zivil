@@ -19,7 +19,7 @@
                                     <li class={{objekt.barva_sol}}><tt>Sol:</tt> {{objekt.sol}}g</li>
                                     
                                 </ul> 
-                                <small>* hranilne vrednosti za 100g/ml izdelka</small>
+                                <small>* hranilne vrednosti za 100 g/ml izdelka</small>
                             </p>
                         </div>
             </div>
