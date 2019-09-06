@@ -610,5 +610,14 @@
     "sladkorji": 13.3,
     "sol": 0.0,
     "url": "slike/S-bitter-lemon.jpg"
+  },
+  {
+    "ime": "test2",
+    "kategorija": "mle\u010dni izdelki",
+    "mascobe": 3.1,
+    "nasicene_mascobe": 333.0,
+    "sladkorji": 3.0,
+    "sol": 3.0,
+    "url": ""
   }
 ]

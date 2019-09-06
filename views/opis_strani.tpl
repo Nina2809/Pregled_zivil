@@ -1,6 +1,9 @@
 
 %rebase('bootstrap.tpl')
-
+<style>
+    body {
+          background-color: rgba(201, 76, 76, 0.3)}
+</style>
 <div class="card text-center">
         <div class="card-header">
           PREGLED ŽIVIL

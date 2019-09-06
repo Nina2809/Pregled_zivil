@@ -10,6 +10,20 @@
 
     <title>Pregled živil</title>
   </head>
+    <style>
+            body {
+            position: relative;
+            height: 100vh;
+            margin: 0}
+      .card {
+        margin: 0 auto;
+        float: none; 
+        margin-bottom: 10px; 
+        margin-top: 10px
+        }
+
+    </style>
+ 
   <body>
     <div class="container">
         {{!base}}

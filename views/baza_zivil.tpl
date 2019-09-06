@@ -35,7 +35,7 @@
         <div class="card" style="width: 18rem;">
         <img src="slike/mesni_in_ribji_izdelki.jpg" class="card-img-top" alt="mesni_in_ribji_izdelki">
             <div class="card-body">
-                <p class="card-text">V kategorijo mesnih in ribjih izdelkov spadajo vsa živila, ki se pridobivajo iz mesa živali. Primer izdelkov, ki sodijo v to skupino so: tuna, pašteta, piščančje meso, goveje meso, ribje palčke, losos, ...</p>
+                <p class="card-text">V kategorijo mesnih in ribjih izdelkov spadajo vsa živila, ki se pridobivajo iz mesa živali. <p>Primer izdelkov, ki sodijo v to skupino so: tuna, pašteta, piščančje meso, losos, ...</p></p>
                     <form action="/pregled_mesni_ribe">
                         <button class="btn btn-light" type="submit">MESNI IN RIBJI IZDELKI</button> 
                     </form>              
